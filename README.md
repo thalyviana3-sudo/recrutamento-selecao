@@ -51,4 +51,4 @@ O banco possui 9 tabelas relacionadas entre si:
 
 Estudante apaixonada por tecnologia, especializando em modelagem de dados, banco de dados e análise de dados com Power BI e Excel.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalita-dutra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalita-viana-dutra-95bba4174/)
