@@ -40,10 +40,6 @@ O banco possui 9 tabelas relacionadas entre si:
 ## 📁 Arquivos do projeto
 
 - `recrutamento_selecao.sql` — script completo do banco de dados
-- `MER_Atualizado.docx` — Modelo Entidade Relacionamento
-- `Dicionario_de_Dados.docx` — dicionário com descrição de cada campo
-- `Regras_de_Negocio_Atualizadas.docx` — regras de negócio do projeto
-- `POWER BI/` — dashboard com indicadores de People Analytics
 
 ---
 
